@@ -1,5 +1,5 @@
-# Control Categories and Types – Summary
-*This was provided to me as a doc in the activity, asked me to review it and keep this in mind when doing the activity*
+# Control Categories and Types
+*This was provided to me as a doc in the activity, asked me to review it and keep this in mind when doing the activity. I summarized the doc in my own words.*
 
 Cybersecurity controls are grouped into three primary categories:
 
