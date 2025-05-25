@@ -37,7 +37,7 @@ The internal audit revealed several critical gaps in Botium Toys’ security pos
 
 ## Compliance Checklist
 
-See [Controls_compliance_checklist.pdf](./controls_compliance_checklist.pdf) for a completed checklist indicating compliance status across 20+ controls.
+See [Controls_compliance_checklist.pdf](./Controls_compliance_checklist.pdf) for a completed checklist indicating compliance status across 20+ controls.
 
 ---
 
