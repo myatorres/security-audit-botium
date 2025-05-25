@@ -14,8 +14,7 @@ Botium Toys, a growing small business with physical and online operations, lacks
 
 - **`Botium_Toys_Risk_Assessment.md`** – Final report summarizing the audit findings and recommendations.
 - **`controls_compliance_checklist`** – Completed checklist based on the NIST CSF controls and compliance best practices.
-- **`templates`** – Template screenshots provided by the course.
-- **`notes`** – Personal notes made during the exercise.
+- **`templates`** – Templates for different control catagories, the scenario of the project, and the risk assessment provided by the course. Which was used for the checklist.
 
 ---
 
