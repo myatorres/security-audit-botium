@@ -6,7 +6,7 @@ Select “yes” or “no” to answer the question: *Does Botium Toys currently
 
 |   Yes |     No | Control | *Explanation* |
 | ----- | ----- | :---- | :---- |
-|  | x | Least Privilege  | *Currently, all employees have access to customer data; privileges need to be limited to reduce the risk of a breach.* |
+|  | x| Least Privilege  | *Currently, all employees have access to customer data; privileges need to be limited to reduce the risk of a breach.* |
 |  | x | Disaster recovery plans | *There are no disaster recovery plans in place. These need to be implemented to ensure business continuity.* |
 |  | x | Password policies | *Employee password requirements are minimal, which could allow a threat actor to more easily access secure data/other assets via employee work equipment/the internal network.* |
 |  | x | Separation of duties | *Needs to be implemented to reduce the possibility of fraud/access to critical data, since the company CEO currently runs day-to-day operations and manages the payroll.* |
@@ -15,7 +15,7 @@ Select “yes” or “no” to answer the question: *Does Botium Toys currently
 |  | x | Intrusion detection system (IDS) | *The IT department needs an IDS in place to help identify possible intrusions by threat actors.* |
 |  | x | Backups | *The IT department needs to have backups of critical data, in the case of a breach, to ensure business continuity.* |
 | x |  | Antivirus software | *Antivirus software is installed and monitored regularly by the IT department.* |
-|  | x | Manual monitoring, maintenance, and intervention for legacy systems | *The list of assets notes the use of legacy systems. The risk assessment indicates that these systems are monitored and maintained, but there is not a regular schedule in place for this task and procedures/ policies related to intervention are unclear, which could place these systems at risk of a breach.*  |
+|  | x| Manual monitoring, maintenance, and intervention for legacy systems | *The list of assets notes the use of legacy systems. The risk assessment indicates that these systems are monitored and maintained, but there is not a regular schedule in place for this task and procedures/ policies related to intervention are unclear, which could place these systems at risk of a breach.*  |
 |  | x | Encryption | *Encryption is not currently used; implementing it would provide greater confidentiality of sensitive information.* |
 |  | x | Password management system | *There is no password management system currently in place; implementing this control would improve IT department/other employee productivity in the case of password issues.* |
 | x |  | Locks (offices, storefront, warehouse) | *The store’s physical location, which includes the company’s main offices, store front, and warehouse of products, has sufficient locks.* |
